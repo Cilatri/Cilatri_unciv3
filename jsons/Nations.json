@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "璃月",
+		"leaderName": "凝光",
+		"adjective": ["璃月的"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -25,16 +25,16 @@
 		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "契约已成，食言者当受食岩之罚。",
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "岩与契约的海港",
+		"uniques": ["[+5 Gold] from each Trade Route", "[Great Merchant] is earned [100]% faster","[+20]% Production when constructing [All] wonders [in all cities]"],
+		"cities": ["璃月港", "归离原", "轻策庄", "荻花洲", "明蕴镇", "瑶光滩", "渌华池", "青墟浦", "遁玉陵", "灵矩关", "无妄坡","天衡山",
+		"孤云阁","群玉阁", "绝云间", "华光林", "奥藏山", "琥牢山", "庆云顶", "南天门", "翠玦坡", "天遒谷", "沉玉谷", "翘英庄", "遗珑埠"
+		,"宝玦口","药蝶谷","灵濛山","赤望台","暝垣山"]
 	}
 ]
