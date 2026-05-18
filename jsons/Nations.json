@@ -32,7 +32,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "岩与契约的海港",
-		"uniques": ["[+5 Gold] from each Trade Route", "[Great Merchant] is earned [100]% faster","[+20]% Production when constructing [All] wonders [in all cities]"],
+		"uniques": ["[+10 Gold] from each Trade Route", "[+100]% Production towards any buildings that already exist in the Capital","[+100]% Production when constructing [All] wonders [in all cities]",
+			"[-100]% unhappiness from the number of cities", "[-100]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["璃月港", "归离原", "轻策庄", "荻花洲", "明蕴镇", "瑶光滩", "渌华池", "青墟浦", "遁玉陵", "灵矩关", "无妄坡","天衡山",
 		"孤云阁","群玉阁", "绝云间", "华光林", "奥藏山", "琥牢山", "庆云顶", "南天门", "翠玦坡", "天遒谷", "沉玉谷", "翘英庄", "遗珑埠"
 		,"宝玦口","药蝶谷","灵濛山","赤望台","暝垣山"]
